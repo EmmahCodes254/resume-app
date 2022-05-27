@@ -76,7 +76,7 @@ def txt3(a, b):
     st.markdown(a)
   with col2:
     st.markdown(b)
-  
+
 def txt4(a, b, c):
   col1, col2, col3 = st.columns([1.5,2,2])
   with col1:
